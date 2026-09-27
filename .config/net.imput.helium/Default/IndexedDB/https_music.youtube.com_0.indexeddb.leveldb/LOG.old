@@ -1,0 +1,12 @@
+2026/09/25-19:17:30.799 424 Reusing MANIFEST /home/havoc/.config/net.imput.helium/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/25-19:17:30.799 424 Recovering log #4
+2026/09/25-19:17:30.799 424 Reusing old log /home/havoc/.config/net.imput.helium/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000004.log 
+2026/09/25-21:15:43.027 416 Level-0 table #8: started
+2026/09/25-21:15:43.048 416 Level-0 table #8: 1337332 bytes OK
+2026/09/25-21:15:43.050 416 Delete type=0 #4
+2026/09/25-21:23:33.063 415 Compacting 1@1 + 1@2 files
+2026/09/25-21:23:33.076 415 Generated table #9@1: 323 keys, 31958 bytes
+2026/09/25-21:23:33.076 415 Compacted 1@1 + 1@2 files => 31958 bytes
+2026/09/25-21:23:33.077 415 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/09/25-21:23:33.077 415 Delete type=2 #5
+2026/09/25-21:23:33.077 415 Delete type=2 #8

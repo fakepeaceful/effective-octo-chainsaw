@@ -1,0 +1,58 @@
+{
+   "checksum": "f1b9cc57588fe76e0f02292b7ffab325",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13434806294248865",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13434806528370358",
+            "date_last_used": "0",
+            "guid": "8366dd40-65e5-4e71-9807-4215ddabcaca",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Proton Mail",
+            "type": "url",
+            "url": "https://mail.proton.me/u/1/inbox#category=primary"
+         }, {
+            "date_added": "13434806962146295",
+            "date_last_used": "0",
+            "guid": "1d8c1e76-a81b-4d95-8d1c-d020c089ab15",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Github",
+            "type": "url",
+            "url": "https://github.com/dashboard"
+         } ],
+         "date_added": "13434806294248865",
+         "date_last_used": "0",
+         "date_modified": "13434806962146295",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13434806294248865",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,7 @@
+2026/09/25-21:32:53.349 418 Reusing MANIFEST /home/havoc/.config/net.imput.helium/Profile 2/IndexedDB/https_github.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/25-21:32:53.349 418 Recovering log #3
+2026/09/25-21:32:53.349 418 Reusing old log /home/havoc/.config/net.imput.helium/Profile 2/IndexedDB/https_github.com_0.indexeddb.leveldb/000003.log 
+2026/09/25-21:32:57.251 416 Level-0 table #5: started
+2026/09/25-21:32:57.253 416 Level-0 table #5: 25955 bytes OK
+2026/09/25-21:32:57.253 416 Delete type=0 #3
+2026/09/25-21:32:57.254 416 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

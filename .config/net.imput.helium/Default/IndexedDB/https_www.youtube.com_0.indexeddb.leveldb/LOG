@@ -1,0 +1,10 @@
+2026/09/25-18:57:25.155 415 Creating DB /home/havoc/.config/net.imput.helium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2026/09/25-18:57:25.156 415 Reusing MANIFEST /home/havoc/.config/net.imput.helium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/25-19:13:13.866 416 Level-0 table #5: started
+2026/09/25-19:13:13.902 416 Level-0 table #5: 1005618 bytes OK
+2026/09/25-19:13:13.902 416 Delete type=0 #3
+2026/09/25-20:34:47.629 416 Level-0 table #7: started
+2026/09/25-20:34:47.647 416 Level-0 table #7: 1652367 bytes OK
+2026/09/25-20:34:47.648 416 Delete type=0 #4
+2026/09/25-20:36:17.401 416 Compacting 1@1 + 1@2 files
+2026/09/25-20:36:17.403 416 compacted to: files[ 0 1 1 0 0 0 0 ]

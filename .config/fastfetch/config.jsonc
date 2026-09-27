@@ -1,0 +1,106 @@
+{
+"$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+
+
+"logo": {
+    "type": "file",
+    "source": "~/.config/fastfetch/logos/logo1.txt",
+    "color": {
+      "1": "white"
+    },
+    "width": 28,
+    "height": 14,
+    "padding": {
+        "top": 0,
+        "left": 1
+    }
+},
+
+"display": {
+    "key": {
+        "width": 10
+    },
+    "size": {
+        "binaryPrefix": "jedec"
+    },
+    "separator": ""
+},
+
+"modules": [
+    "break",
+
+    {
+        "type": "title",
+        "key": "usr",
+        "keyColor": "magenta",
+        "format": "{user-name}"
+    },
+    {
+        "type": "os",
+        "key": "os",
+        "keyColor": "cyan",
+        "format": "{name}"
+    },
+    {
+        "type": "kernel",
+        "key": "ker",
+        "keyColor": "blue"
+    },
+    {
+        "type": "shell",
+        "key": "sh",
+        "keyColor": "magenta",
+        "format": "{pretty-name}"
+    },
+    {
+        "type": "terminal",
+        "key": "ter",
+        "keyColor": "cyan",
+        "format": "{pretty-name}"
+    },
+    {
+        "type": "packages",
+        "key": "pkgs",
+        "keyColor": "yellow"
+    },
+    {
+        "type": "wm",
+        "key": "wm",
+        "keyColor": "blue"
+    },
+    {
+        "type": "terminalfont",
+        "key": "fn",
+        "keyColor": "magenta"
+    },
+    {
+        "type": "cpu",
+        "key": "cpu",
+        "keyColor": "magenta",
+        "format": "{name}"
+    },
+    {
+        "type": "gpu",
+        "key": "gpu",
+        "keyColor": "green",
+        "format": "{name}"
+    },
+    {
+        "type": "memory",
+        "key": "ram",
+        "keyColor": "cyan",
+        "format": "{used} / {total}"
+    },
+
+    "break",
+
+    {
+        "type": "colors",
+        "symbol": "circle"
+    },
+
+    "break"
+]
+
+
+}

@@ -1,0 +1,6 @@
+2026/09/27-17:35:04.876 530 Creating DB /home/havoc/.config/net.imput.helium/Profile 2/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb since it was missing.
+2026/09/27-17:35:04.876 530 Reusing MANIFEST /home/havoc/.config/net.imput.helium/Profile 2/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/27-17:35:06.881 531 Level-0 table #5: started
+2026/09/27-17:35:06.882 531 Level-0 table #5: 1711 bytes OK
+2026/09/27-17:35:06.883 531 Delete type=0 #3
+2026/09/27-17:35:06.884 531 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2026/09/25-20:37:37.908 415 Creating DB /home/havoc/.config/net.imput.helium/Profile 1/Local Extension Settings/blockjmkbacgjkknlgpkjjiijinjdanf since it was missing.
+2026/09/25-20:37:37.909 415 Reusing MANIFEST /home/havoc/.config/net.imput.helium/Profile 1/Local Extension Settings/blockjmkbacgjkknlgpkjjiijinjdanf/MANIFEST-000001
+2026/09/25-20:37:39.121 416 Level-0 table #5: started
+2026/09/25-20:37:39.128 416 Level-0 table #5: 4670892 bytes OK
+2026/09/25-20:37:39.128 416 Delete type=0 #3

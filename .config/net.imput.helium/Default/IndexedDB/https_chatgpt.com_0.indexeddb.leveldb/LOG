@@ -1,0 +1,7 @@
+2026/09/25-19:37:50.190 416 Reusing MANIFEST /home/havoc/.config/net.imput.helium/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/25-19:37:50.190 416 Recovering log #3
+2026/09/25-19:37:50.190 416 Reusing old log /home/havoc/.config/net.imput.helium/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/000003.log 
+2026/09/25-19:37:52.442 416 Level-0 table #5: started
+2026/09/25-19:37:52.443 416 Level-0 table #5: 1751 bytes OK
+2026/09/25-19:37:52.445 416 Delete type=0 #3
+2026/09/25-19:37:52.445 416 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
