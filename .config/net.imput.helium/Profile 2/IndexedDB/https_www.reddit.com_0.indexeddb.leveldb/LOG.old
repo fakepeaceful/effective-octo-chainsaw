@@ -1,0 +1,6 @@
+2026/09/27-18:35:02.395 530 Creating DB /home/havoc/.config/net.imput.helium/Profile 2/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb since it was missing.
+2026/09/27-18:35:02.397 530 Reusing MANIFEST /home/havoc/.config/net.imput.helium/Profile 2/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/27-18:35:55.933 531 Level-0 table #5: started
+2026/09/27-18:35:55.937 531 Level-0 table #5: 2474 bytes OK
+2026/09/27-18:35:55.939 531 Delete type=0 #3
+2026/09/27-18:35:55.939 531 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

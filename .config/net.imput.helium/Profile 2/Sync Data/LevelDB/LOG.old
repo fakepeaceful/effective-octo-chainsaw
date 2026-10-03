@@ -1,3 +1,3 @@
-2026/09/27-11:15:12.533 48f Reusing MANIFEST /home/havoc/.config/net.imput.helium/Profile 2/Sync Data/LevelDB/MANIFEST-000001
-2026/09/27-11:15:12.533 48f Recovering log #3
-2026/09/27-11:15:12.534 48f Reusing old log /home/havoc/.config/net.imput.helium/Profile 2/Sync Data/LevelDB/000003.log 
+2026/09/27-17:05:32.085 530 Reusing MANIFEST /home/havoc/.config/net.imput.helium/Profile 2/Sync Data/LevelDB/MANIFEST-000001
+2026/09/27-17:05:32.085 530 Recovering log #3
+2026/09/27-17:05:32.085 530 Reusing old log /home/havoc/.config/net.imput.helium/Profile 2/Sync Data/LevelDB/000003.log 

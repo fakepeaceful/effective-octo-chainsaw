@@ -1,3 +1,6 @@
-2026/09/27-17:05:34.196 7 Reusing MANIFEST /home/havoc/.config/net.imput.helium/Profile 2/Session Storage/MANIFEST-000001
-2026/09/27-17:05:34.199 7 Recovering log #3
-2026/09/27-17:05:34.202 7 Reusing old log /home/havoc/.config/net.imput.helium/Profile 2/Session Storage/000003.log 
+2026/10/04-10:04:27.296 5 Reusing MANIFEST /home/havoc/.config/net.imput.helium/Profile 2/Session Storage/MANIFEST-000001
+2026/10/04-10:04:27.298 5 Recovering log #10
+2026/10/04-10:04:27.301 5 Reusing old log /home/havoc/.config/net.imput.helium/Profile 2/Session Storage/000010.log 
+2026/10/04-10:04:27.303 5 Delete type=2 #7
+2026/10/04-10:04:27.303 5 Delete type=2 #9
+2026/10/04-10:04:27.303 5 Delete type=2 #11

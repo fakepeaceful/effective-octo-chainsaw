@@ -1,15 +1,2 @@
-2026/09/27-17:05:32.086 5 Reusing MANIFEST /home/havoc/.config/net.imput.helium/Profile 2/Local Storage/leveldb/MANIFEST-000001
-2026/09/27-17:05:32.087 5 Recovering log #22
-2026/09/27-17:05:32.088 5 Reusing old log /home/havoc/.config/net.imput.helium/Profile 2/Local Storage/leveldb/000022.log 
-2026/09/27-17:28:09.533 5 Level-0 table #26: started
-2026/09/27-17:28:09.536 5 Level-0 table #26: 16742 bytes OK
-2026/09/27-17:28:09.541 5 Delete type=0 #22
-2026/09/27-17:28:09.541 7 Compacting 4@0 + 1@1 files
-2026/09/27-17:28:09.545 7 Generated table #27@0: 106 keys, 19838 bytes
-2026/09/27-17:28:09.545 7 Compacted 4@0 + 1@1 files => 19838 bytes
-2026/09/27-17:28:09.546 7 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/09/27-17:28:09.547 7 Delete type=2 #16
-2026/09/27-17:28:09.547 7 Delete type=2 #19
-2026/09/27-17:28:09.547 7 Delete type=2 #21
-2026/09/27-17:28:09.547 7 Delete type=2 #23
-2026/09/27-17:28:09.548 7 Delete type=2 #26
+2026/10/04-10:04:20.523 5 Creating DB /home/havoc/.config/net.imput.helium/Profile 2/Local Storage/leveldb since it was missing.
+2026/10/04-10:04:20.525 5 Reusing MANIFEST /home/havoc/.config/net.imput.helium/Profile 2/Local Storage/leveldb/MANIFEST-000001
